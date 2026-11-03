@@ -1,0 +1,4 @@
+anthropic>=2.4
+pandas
+openpyxl
+pillow
